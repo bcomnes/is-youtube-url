@@ -6,7 +6,7 @@
 [![downloads](https://img.shields.io/npm/dm/@bret/is-youtube-url.svg)](https://npmtrends.com/@bret/is-youtube-url)
 ![Types in JS](https://img.shields.io/badge/types_in_js-yes-brightgreen)
 [![neostandard javascript style](https://img.shields.io/badge/code_style-neostandard-7fffff?style=flat&labelColor=ff80ff)](https://github.com/neostandard/neostandard)
-[![Socket Badge](https://socket.dev/api/badge/npm/package/is-youtube-url)](https://socket.dev/npm/package/is-youtube-url)
+[![Socket Badge](https://socket.dev/api/badge/npm/package/@bret/is-youtube-url)](https://socket.dev/npm/package/@bret/is-youtube-url)
 
 Check if a given URL belongs to YouTube or Google Video domains.
 
