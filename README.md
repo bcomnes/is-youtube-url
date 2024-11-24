@@ -1,9 +1,9 @@
 # @bret/is-youtube-url
 
-[![latest version](https://img.shields.io/npm/v/is-youtube-url.svg)](https://www.npmjs.com/package/is-youtube-url)
+[![latest version](https://img.shields.io/npm/v/@bret/is-youtube-url.svg)](https://www.npmjs.com/package/@bret/is-youtube-url)
 [![Actions Status](https://github.com/bcomnes/is-youtube-url/workflows/tests/badge.svg)](https://github.com/bcomnes/is-youtube-url/actions)
 [![Coverage Status](https://coveralls.io/repos/github/bcomnes/is-youtube-url/badge.svg?branch=master)](https://coveralls.io/github/bcomnes/is-youtube-url?branch=master)
-[![downloads](https://img.shields.io/npm/dm/is-youtube-url.svg)](https://npmtrends.com/is-youtube-url)
+[![downloads](https://img.shields.io/npm/dm/@bret/is-youtube-url.svg)](https://npmtrends.com/@bret/is-youtube-url)
 ![Types in JS](https://img.shields.io/badge/types_in_js-yes-brightgreen)
 [![neostandard javascript style](https://img.shields.io/badge/code_style-neostandard-7fffff?style=flat&labelColor=ff80ff)](https://github.com/neostandard/neostandard)
 [![Socket Badge](https://socket.dev/api/badge/npm/package/is-youtube-url)](https://socket.dev/npm/package/is-youtube-url)
