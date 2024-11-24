@@ -33,7 +33,8 @@
     "url": "https://github.com/bcomnes/is-youtube-url.git"
   },
   "scripts": {
-    "prepublishOnly": "git push --follow-tags && gh-release -y",
+    "prepublishOnly": "npm run build && git push --follow-tags && gh-release -y",
+    "postpublish": "npm run clean",
     "test": "run-s test:*",
     "test:lint": "eslint",
     "test:tsc": "eslint .",
