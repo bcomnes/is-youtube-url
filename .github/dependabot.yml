@@ -6,6 +6,13 @@ updates:
     # Check the npm registry for updates every day (weekdays)
     schedule:
       interval: "daily"
+    groups:
+      typescript:
+        patterns:
+          - "typescript"
+          - "tsconfig"
+          - "@types/node"
+          - "@voxpelli/tsconfig"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
